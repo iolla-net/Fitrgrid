@@ -1,4 +1,4 @@
-# .Fitrgrid
+# .FITRGRID
 
 ![fitrgrid logo](https://github.com/aoimedia/Fitrgrid/blob/master/images/retina.png)
 
