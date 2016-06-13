@@ -83,4 +83,4 @@ Fitrgrid will feature additional utility classes in future.
 ##  Compatibility  
 Fitrgrid works well in all HTML5 compatible web browsers.
 
-Add Moderniser and Fitrgrid should work all the way back to (dare I even utter it) IE7.
+Add Modernizr and Fitrgrid should work all the way back to (dare I even utter it) IE7.
