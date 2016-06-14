@@ -76,7 +76,7 @@ To guarantee a perfect responsive grid, follow these specs:
 ##  Utility classes
 For the moment Fitrgrid keeps it simple with just 4 utility classes:
 
-| utility class      | Description
+| Utility class      | Description
 | -----------|---
 | .fg-no-gutter | Perfect for big edgeless image grids
 | .fg-no-mobile | Do not display content on small screen devices
