@@ -22,10 +22,6 @@ The Flex spec isn't finalised yet and there are still [Flexbugs](https://github.
 
 In this respect I still find a 'traditional' grid system preferable to Flexbox in certain circumstances. This will undoubtedly change in the near future, especially as I plan to add Flex functionality to Fitrgrid.
 
-##  Acknowledgement 
-A special thank you to Jan Müller for the original fitgrd project and for being so open and friendly. :)
-
-
 ##  Basic Setup 
 To add Fitrgrid to your website, simply include `fitrgrid.pack.css` into your document's `<head>`
 
@@ -89,3 +85,6 @@ Fitrgrid will feature additional utility classes in future.
 Fitrgrid works well in all HTML5 compatible web browsers.
 
 Add Modernizr and Fitrgrid should work all the way back to (dare I even utter it) IE7.
+
+##  Acknowledgement 
+A special thank you to Jan Müller for the original fitgrd project and for being so open and friendly. :)
