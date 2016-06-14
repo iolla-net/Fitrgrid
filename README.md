@@ -81,7 +81,7 @@ For the moment Fitrgrid keeps it simple with just 4 utility classes:
 | .fg-no-gutter | Perfect for big edgeless image grids
 | .fg-no-mobile | Do not display content on small screen devices
 | .fg-no-desktop | Do not display content on large screen devices
-| .fg-wide _(new!)_ | Full-width edgeless grids constrained by the .center class width setting (default 1280px)
+| .fg-wide _(new!)_ | Full-width edgeless grids constrained by .center class width (default 1280px)
 
 Fitrgrid will feature additional utility classes in future.
 
