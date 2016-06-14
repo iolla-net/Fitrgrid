@@ -3,7 +3,7 @@
 ![fitrgrid logo](https://github.com/aoimedia/Fitrgrid/blob/master/images/retina.png)
 
 
-#### Mobile / small screen first responsive grid
+## Mobile / small screen first responsive grid
 
 Fitrgrid is a fork of [fitgrd](http://www.fitgrd.com) - the lightweight responsive grid, by Jan Müller and inherits all features of the original.  
 
