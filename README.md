@@ -9,6 +9,8 @@ Fitrgrid is a fork of [fitgrd](http://www.fitgrd.com) - the lightweight responsi
 
 Fitrgrid is divided into twelve percentage-based columns. Each column has a two percent gutter. Fitrgrid comes with a single media query (for viewports wider than 640px) that you can adjust or supplement to taste.
 
+#### [Fitrgrid demo](http://aoimedia.github.io/Fitrgrid)
+
 ##  How does Fitrgrid differ from fitgrd?  
 I've worked with the original fitgrd and love it's simplicity. However, I now take a mobile-first approach to web development and wanted fitgrd to match these principles. I dismantled and reconfigured fitgrd as the new mobile-first Fitrgrid.
 
@@ -21,8 +23,6 @@ I don't subscribe to a one-size-fits-all philosophy, and for the moment I don't 
 The Flex spec isn't finalised yet and there are still [Flexbugs](https://github.com/philipwalton/flexbugs). I also need to provide some clients with older browser compatibility. I therefore have a choice of sticking with a tried and tested grid system or using Flexbox coupled with a compensatory polyfill. I don't like throwing JS at every problem either.
 
 In this respect I still find a 'traditional' grid system preferable to Flexbox in certain circumstances. This will undoubtedly change in the near future, especially as I plan to add Flex functionality to Fitrgrid.
-
-#### [Fitrgrid demo](http://aoimedia.github.io/Fitrgrid)
 
 ##  Basic Setup 
 To add Fitrgrid to your website, simply include `fitrgrid.pack.css` into your document's `<head>`
