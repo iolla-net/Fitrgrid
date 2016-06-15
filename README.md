@@ -1,6 +1,6 @@
 # .FITRGRID
 
-![fitrgrid logo](https://github.com/aoimedia/Fitrgrid/blob/master/images/retina.png)
+![fitrgrid logo](https://github.com/aoimedia/Fitrgrid/blob/master/images/icons/retina.png)
 
 
 ## Mobile / small screen first responsive grid
