@@ -22,6 +22,8 @@ The Flex spec isn't finalised yet and there are still [Flexbugs](https://github.
 
 In this respect I still find a 'traditional' grid system preferable to Flexbox in certain circumstances. This will undoubtedly change in the near future, especially as I plan to add Flex functionality to Fitrgrid.
 
+#### [Fitrgrid demo](http://aoimedia.github.io/Fitrgrid)
+
 ##  Basic Setup 
 To add Fitrgrid to your website, simply include `fitrgrid.pack.css` into your document's `<head>`
 
