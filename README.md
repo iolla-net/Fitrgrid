@@ -9,7 +9,7 @@ Fitrgrid is a fork of [fitgrd](http://www.fitgrd.com) - the lightweight responsi
 
 Fitrgrid is divided into twelve percentage-based columns. Each column has a two percent gutter. Fitrgrid comes with a single media query (for viewports wider than 640px) that you can adjust or supplement to taste.
 
-#### [Fitrgrid demo](http://aoimedia.github.io/Fitrgrid)
+#### [Fitrgrid demo](http://wachilt.github.io/Fitrgrid)
 
 ##  How does Fitrgrid differ from fitgrd?  
 I've worked with the original fitgrd and love it's simplicity. However, I now take a mobile-first approach to web development and wanted fitgrd to match these principles. I dismantled and reconfigured fitgrd as the new mobile-first Fitrgrid.
