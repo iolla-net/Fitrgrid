@@ -5,7 +5,7 @@
 
 ## Mobile / small screen first responsive grid
 
-Fitrgrid is a fork of [fitgrd](http://www.fitgrd.com) - the lightweight responsive grid by Jan Müller, and inherits all features of the original.  
+Fitrgrid is a fork of [fitgrd](https://github.com/jayalai/fitgrd) - the lightweight responsive grid by Jan Müller, and inherits all features of the original.  
 
 Fitrgrid is divided into twelve percentage-based columns. Each column has a two percent gutter. Fitrgrid comes with a single media query (for viewports wider than 640px) that you can adjust or supplement to taste.
 
