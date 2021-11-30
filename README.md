@@ -3,7 +3,7 @@
 ![fitrgrid logo](https://github.com/wachilt/Fitrgrid/blob/master/images/icons/retina.png)
 
 
-## Small screen first flexbox grid
+## A small screen first flexbox CSS grid
 
 Fitrgrid is a fork of [fitgrd](https://github.com/jayalai/fitgrd) - the lightweight responsive grid by Jan Müller, and inherits all features of the original.  
 
