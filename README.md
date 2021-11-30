@@ -3,7 +3,7 @@
 ![fitrgrid logo](https://github.com/wachilt/Fitrgrid/blob/master/images/icons/retina.png)
 
 
-## Mobile / small screen first responsive grid
+## Small screen first flexbox grid
 
 Fitrgrid is a fork of [fitgrd](https://github.com/jayalai/fitgrd) - the lightweight responsive grid by Jan Müller, and inherits all features of the original.  
 
@@ -14,15 +14,10 @@ Fitrgrid is divided into twelve percentage-based columns. Each column has a two 
 ##  How does Fitrgrid differ from fitgrd?  
 I've worked with the original fitgrd and love it's simplicity. However, I now take a mobile-first approach to web development and wanted fitgrd to match these principles. I dismantled and reconfigured fitgrd as the new mobile-first Fitrgrid.
 
-Fitrgrid has been (re)built from the ground up for small screen first web development and adds a new extra-wide grid option. Fitrgrid CSS weighs in at the same 4KB (uncompressed) file size of the original project and works well with modern mobile and desktop browsers - some older ones too.
+Fitrgrid has been (re)built from the ground up for small screen first web development and adds a new extra-wide grid option. Fitrgrid CSS weighs in at the same 4KB (uncompressed) file size of the original project and works well with modern mobile and desktop web browsers - some older ones too.
 
-##  Why not use Flexbox?
-I use Flexbox. I've also been experimenting with [Grid](https://drafts.csswg.org/css-grid/).  
-I don't subscribe to a one-size-fits-all philosophy, and for the moment I don't believe that a single layout technology is the solution to absolutely every web development scenario.
+## NEW: Flexbox retrofit. Floats and clearfix begone!
 
-The Flex spec isn't finalised yet and there are still [Flexbugs](https://github.com/philipwalton/flexbugs). I also need to provide some clients with older browser compatibility. I therefore have a choice of sticking with a tried and tested grid system or using Flexbox coupled with a compensatory polyfill. I don't like throwing JS at every problem either.
-
-In this respect I still find a 'traditional' grid system preferable to Flexbox in certain circumstances. This will undoubtedly change in the near future, especially as I plan to add Flex functionality to Fitrgrid.
 
 ##  Basic Setup 
 To add Fitrgrid to your website, simply include `fitrgrid.pack.css` into your document's `<head>`
@@ -84,9 +79,7 @@ For the moment Fitrgrid keeps it simple with just 4 utility classes:
 Fitrgrid will feature additional utility classes in future.
 
 ##  Compatibility  
-Fitrgrid works well in all HTML5 compatible web browsers.
-
-Add Modernizr and Fitrgrid should work all the way back to (dare I even utter it) IE7.
+Fitrgrid works well in all modern web browsers.
 
 ##  Acknowledgement 
-A special thank you to Jan Müller for the original fitgrd project and for being so open and friendly. :)
+Thank you to Jan Müller for the original fitgrd project.
