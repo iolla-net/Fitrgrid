@@ -1,11 +1,12 @@
 /*
 	Original .fitgrd (www.fitgrd.com) - responsive grid system by Jan Müller
-	Fitrgrid - small screen first fork by John Coyne (aoimedia.co.uk) 2016
+	Fitrgrid - small screen first fork by John Coyne 2016
+	Fitrgrid  - flexbox edition (c) 2021 John Coyne / iolla.net
 	Licensed under GPL and MIT.
 */
 
 
-/* just for demonstration - remove this */
+/* for demonstration - remove as required */
 
 body{
 	font: 300 1em/1.5em 'Helvetica', Arial, sans-serif;
@@ -19,7 +20,6 @@ header{
 }
 
 .slide{
-	padding: 2em 0;
 }
 
 .first-content{
@@ -28,7 +28,6 @@ header{
 
 .second-content{
 	background: #eee;
-	padding: 5em 0;
 }
 
 .third-content{
@@ -50,11 +49,12 @@ footer{
 .fg1,.fg2,.fg3,.fg4,.fg5,.fg6,.fg7,.fg8,.fg9,.fg10,.fg11,.fg12 {
 	padding: 2em 0;
 	background: #333;
-	font-size: .9em;
+	font-size: 1.5em;
 	margin-bottom: 2%;
 	font-weight: bold;
 	text-align: center;
 	color: white;
+	border-radius: 10px
 }
 
 .fg-no-gutter > [class*="fg"] {
