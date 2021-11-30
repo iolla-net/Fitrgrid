@@ -1,5 +1,5 @@
-The MIT License (MIT)
-Original .fitgrd project Copyright (c) 2013 Jan Müller  
+The MIT License (MIT)\
+Original .fitgrd project Copyright (c) 2013 Jan Müller\
 Fitrgrid small screen first fork (c) 2016 John Coyne\
 Fitrgrid flexbox edition (c) 2021 John Coyne
 
