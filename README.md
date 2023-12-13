@@ -16,7 +16,7 @@ I've worked with the original fitgrd and love it's simplicity. However, I now ta
 
 Fitrgrid has been (re)built from the ground up for small screen first web development and adds a new extra-wide grid option. Fitrgrid CSS weighs in at the same 4KB (uncompressed) file size of the original project and works well with modern mobile and desktop web browsers - some older ones too.
 
-## NEW: Flexbox retrofit. Floats and clearfix begone!
+## NEW: Flexbox refit. Floats and clearfix begone!
 
 
 ##  Basic Setup 
